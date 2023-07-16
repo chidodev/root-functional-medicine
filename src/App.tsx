@@ -9,10 +9,6 @@ function App() {
     setIsOpen(true);
   };
 
-  const handleOk = () => {
-    setIsOpen(false);
-  };
-
   const handleCancel = () => {
     setIsOpen(false);
   };
